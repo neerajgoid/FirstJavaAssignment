@@ -1,2 +1,0 @@
-# FirstJavaAssignment
-FirstJavaAssignment
